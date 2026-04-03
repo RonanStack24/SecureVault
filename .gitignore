@@ -1,0 +1,23 @@
+# Sensitive config - NEVER commit this
+config.php
+
+# Database blueprint - keep off GitHub
+database.sql
+
+# Deployment artifacts
+deploy.zip
+
+# XAMPP / Server logs
+*.log
+error_log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
